@@ -31,7 +31,7 @@ pipeline {
 
         stage('Integration Test (API)') {
           steps {
-            echo 'Run All API Tests'
+            echo 'Run All1 API Tests'
           }
         }
 
